@@ -1,0 +1,3 @@
+job_id,description,material_cost_inr,estimated_wastage_cost_inr,labour_cost_inr,machine_cost_inr,power_cost_inr,other_cost_inr,proposed_selling_price_inr,data_status
+JOB001,Sample batch of 1000 metal components,85000,3000,12000,4000,2500,3500,120000,SYNTHETIC
+JOB002,Sample batch with tight proposed price,85000,3000,12000,4000,2500,3500,100000,SYNTHETIC

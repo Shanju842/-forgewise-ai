@@ -1,0 +1,4 @@
+supplier_id,supplier_name,material,grade_or_spec,quantity_kg,unit_price_inr_per_kg,freight_inr,other_charges_inr,delivery_days,quote_validity_days,data_status
+S001,Sample Supplier A,Mild Steel,MS sample grade,1000,80,5000,0,4,7,SYNTHETIC
+S002,Sample Supplier B,Mild Steel,MS sample grade,1000,76,9000,0,6,5,SYNTHETIC
+S003,Sample Supplier C,Mild Steel,MS sample grade,1000,83,2000,0,3,7,SYNTHETIC
